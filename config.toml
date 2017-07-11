@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "lalalproject"
+baseURL = "https:\/\/lalalproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "lalalproject.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
